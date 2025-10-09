@@ -1,5 +1,3 @@
-OLA
-
 <p align="center">
   <!-- Spotify: troca TEU_USERNAME nas duas ocorrências -->
   <a href="https://open.spotify.com/user/31hbg7jyb76rvqdhb2wzblxwzeyu" target="_blank" rel="noopener">
