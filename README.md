@@ -7,5 +7,5 @@
   &nbsp;&nbsp;&nbsp;
 
   <!-- GitHub Streaks -->
-  <img src="https://streak-stats.demolab.com?user=SEU_GITHUB_USUARIO&theme=tokyonight" alt="GitHub Streak" width="420" />
+  <img src="https://streak-stats.demolab.com?user=drygs&theme=tokyonight" alt="GitHub Streak" width="420" />
 </p>
