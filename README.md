@@ -1,4 +1,3 @@
-<h2 align="left">Hi 👋! My name is Diogo Soares.</h2>
 
 ###
 
