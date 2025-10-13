@@ -9,6 +9,10 @@
 </div>
 
 ###
+<p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=drygs&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
+  <img src="https://streak-stats.demolab.com?user=drygs&theme=tokyonight" alt="GitHub Streak" width="420" />
+
+
+</p>
