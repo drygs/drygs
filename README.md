@@ -1,4 +1,4 @@
-<h2 align="right">Hi 👋! My name is Diogo Soares.</h2>
+<h2 align="left">Hi 👋! My name is Diogo Soares.</h2>
 
 ###
 
@@ -10,16 +10,5 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=drygs&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drygs/drygs/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/drygs/drygs/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/drygs/drygs/output/pacman-contribution-graph.svg">
-</picture>
-
-###
