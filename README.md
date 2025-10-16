@@ -9,13 +9,3 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hbg7jyb76rvqdhb2wzblxwzeyu&count=3&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drygs/drygs/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/drygs/drygs/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/drygs/drygs/output/pacman-contribution-graph.svg">
-</picture>
-
-###
